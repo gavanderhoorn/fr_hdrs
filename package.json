@@ -1,0 +1,9 @@
+{
+  "manver" : "1",
+  "project" : "fr_hdrs",
+  "description" : "Wrappers that add include guards to Fanuc Robotics supplied headers (such as iosetup.kl and kliosop.kl).",
+  "version" : "0.1.0",
+  "license" : "Apache 2.0",
+  "author" : ["G.A. vd. Hoorn"],
+  "includes" : ["include"]
+}
